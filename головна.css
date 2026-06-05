@@ -1,0 +1,35 @@
+body{
+	background-color:gray;
+}
+.kl{
+	text-align:right;
+}
+.lk{
+	text-align:left;
+}
+.jk{
+	text-align:right;
+	
+}
+.kj{
+	text-align:left;
+	
+}
+.hj{
+	text-align:right;
+	
+}
+.jh{
+	text-align:left;
+	
+}
+.12{
+	font-size:50px;
+	color:red;
+}
+a{
+	text-align:center;
+}
+.bn{
+	text-align:center;
+}
